@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+}
+#i{
+    color: yellow;
+    font-size: 40px;
+    width: fit-content;
+    height: fit-content;
+    font-family: 'Julius Sans One', sans-serif;
+}
